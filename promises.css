@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #333;
+}
+
+#quotes-container {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.quote {
+  background: rgb(240, 189, 239);
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#error-message {
+  color: red;
+  margin-top: 20px;
+}
