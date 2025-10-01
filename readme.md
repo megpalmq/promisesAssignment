@@ -4,5 +4,5 @@ This project demonstrates using **Promises** and **Async/Await** for fetching AP
 
 ## Links
 
-- [Promise Assignment]()
-- [Async/Await Assignment]()
+- [Promise Assignment](https://github.com/megpalmq/promisesAssignment)
+- [Async/Await Assignment](https://github.com/megpalmq/async-awaitAssignment)
